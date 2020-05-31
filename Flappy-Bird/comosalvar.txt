@@ -1,0 +1,5 @@
+
+    winner = p.run(main,50)
+    O que pode fazer depois é importar o pickle
+    e salvar essa variável dentro de um arquivo e depois extrair, porque essa vai ser o que vai chegar mais longe
+    depois só fazer um Loop para encerrar quando o score chegar a tal número
